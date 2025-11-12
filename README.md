@@ -107,7 +107,8 @@ Google Form → Google Sheet → n8n Workflow → Eligibility Logic → Send Ema
 ## 🎥 Project Demo
 
 Watch the full YouTube demo here 👇
-🔗 [Certificate Eligibility Generation using n8n](https://youtu.be/hesajiGYEnE)
+🔗 <img width="1920" height="905" alt="Certificate Eligibility Generation using n8n(Interface)" src="https://github.com/user-attachments/assets/4f1f02bd-7e12-4412-843f-916e27efd04a" />
+
 
 ---
 
