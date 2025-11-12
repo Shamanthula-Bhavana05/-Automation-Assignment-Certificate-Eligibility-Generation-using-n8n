@@ -101,14 +101,16 @@ You’ve got this — keep trying! 💫
 ```text
 Google Form → Google Sheet → n8n Workflow → Eligibility Logic → Send Email
 ````
+<img width="1920" height="905" alt="Certificate Eligibility Generation using n8n(Interface)" src="https://github.com/user-attachments/assets/e1ee96f5-1aac-4e0b-b391-50910b9984dc" />
+
 
 ---
 
 ## 🎥 Project Demo
+🎥 Watch the full project demo here:
+🔗 YouTube Video
 
-Watch the full YouTube demo here 👇
-🔗 <img width="1920" height="905" alt="Certificate Eligibility Generation using n8n(Interface)" src="https://github.com/user-attachments/assets/4f1f02bd-7e12-4412-843f-916e27efd04a" />
-
+📂 GitHub Repository: Certificate Eligibility Generation using n8n
 
 ---
 
